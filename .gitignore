@@ -1,0 +1,14 @@
+# Build output
+PageTable
+*.exe
+*.o
+*.out
+
+# Program output (regenerated each run)
+pt_results.txt
+
+# OS and editor files
+__MACOSX/
+.DS_Store
+Thumbs.db
+.vscode/
